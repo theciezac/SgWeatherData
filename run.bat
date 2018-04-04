@@ -1,0 +1,2 @@
+node getOldSgWeatherDataSeparate.js
+node getSgWeatherDataSeparate.js
