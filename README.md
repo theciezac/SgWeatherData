@@ -9,7 +9,7 @@ This application retrieves real-time weather data from [data.gov.sg](https://dat
 * **theciezac.net** - *Initial work* - [Github profile](https://github.com/theciezac)
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
 ## Acknowledgements
 [data.gov.sg](https://data.gov.sg/dataset/realtime-weather-readings)
